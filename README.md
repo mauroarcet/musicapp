@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# musicapp
+A rails app to add music and rate it along people you know
