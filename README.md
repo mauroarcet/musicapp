@@ -1,11 +1,8 @@
-# README
+# musicapp
+A rails app to add music and rate it along people you know
+---
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
+* Ruby version: 2.4
 
 * System dependencies
 
@@ -22,5 +19,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# musicapp
-A rails app to add music and rate it along people you know
+
