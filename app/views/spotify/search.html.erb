@@ -1,0 +1,7 @@
+<h1>Search Result</h1>
+<ul>
+<%= @results.each do |r| %>
+    <li> <%= r.name %> </li>
+    <li> <%= r.album %> </li>
+<% end %>
+</ul>
